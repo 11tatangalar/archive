@@ -7,6 +7,12 @@
     <th>Resimler</th>
   </tr>
   <tr>
+      <td>The Incredible Hulk</td>
+      <td><a href="https://disk.yandex.com.tr/d/T4thF5fx3t117g">İndir(rar: oyunindir.vip)</a></td>
+      <td colspan="2"><a href="https://www.oyunindir.vip/wp-content/uploads/2019/11/The-Incredible-Hulk-full.jpg">Resim</a>
+    </td>
+  </tr>
+  <tr>
       <td>Prince of Persia The Two Thrones</td>
       <td><a href="https://drive.google.com/file/d/11vVqLUaZtPjHQs0MRgGYsbderJXXgQdv/view">İndir(rar: oyunindir.vip)</a></td>
       <td colspan="2"><a href="https://www.oyunindir.vip/wp-content/uploads/2019/02/Prince-of-Persia-The-Two-Thrones-torrent-1024x820.jpg">Resim</a>
