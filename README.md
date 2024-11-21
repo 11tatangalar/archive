@@ -4,6 +4,7 @@
     <th>Oyun Adı</th>
     <th>İndirme</th>
     <th>Notlar</th>
+    <th>Resimler</th>
   </tr>
   <tr>
     <td>Goat Simulator</td>
@@ -67,6 +68,6 @@
   <tr>
     <td>Punch Club</td>
     <td><a href="https://drive.google.com/file/d/1lsEvoCqISpv8FIhTnMRYWTLHAALOMTCK/view">İndir(rar: oyunindir.vip)</a></td>
-    <td><a href="https://www.oyunindir.vip/wp-content/uploads/2019/03/Punch-Club-Deluxe-4.jpg">Resim</a></td>
+    <td colspan="2"><a href="https://www.oyunindir.vip/wp-content/uploads/2019/03/Punch-Club-Deluxe-4.jpg">Resim</a></td>
   </tr>
 </table>
