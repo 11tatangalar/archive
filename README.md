@@ -10,11 +10,6 @@
     <td><a href="https://drive.google.com/file/d/1n_iJio5FQdE2b3nGkG9-4nIWfIkUZAxZ/view">İndir(rar: www.oyunindir.club)</a></td>
   </tr>
   <tr>
-    <td>
-      <img href="">
-    </td>
-  </tr>
-  <tr>
     <td>Half Life 2</td>
     <td><a href="https://drive.google.com/file/d/1Tm86CpcLqz9afENiL_f2_n2kR5FmO6BW/view">İndir(rar: www.oyunindir.club)</a></td>
   </tr>
