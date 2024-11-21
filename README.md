@@ -7,6 +7,12 @@
     <th>Resimler</th>
   </tr>
   <tr>
+      <td>Gris</td>
+      <td><a href="https://drive.google.com/file/d/1sL4b9KQrtLOvr4gL1xsm5K-eZ_U46z-r/view">İndir(rar: oyunindir.vip)</a></td>
+      <td colspan="2"><a href="https://www.oyunindir.vip/wp-content/uploads/2019/02/GRIS-pc-696x392.jpg">Resim</a>
+    </td>
+  </tr>
+  <tr>
       <td>To The Moon</td>
       <td><a href="https://drive.google.com/file/d/1S0Riigcpro35JWv6mfZC7k-N9dmdXusQ/view">İndir(rar: oyunindir.vip)</a></td>
       <td colspan="2"><a href="https://www.oyunindir.vip/wp-content/uploads/2019/06/To-The-Moon-Full-T%C3%BCrk%C3%A7e.jpg">Resim</a>
