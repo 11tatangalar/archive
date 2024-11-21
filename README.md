@@ -7,6 +7,12 @@
     <th>Resimler</th>
   </tr>
   <tr>
+      <td>Total Overdose</td>
+      <td><a href="https://drive.google.com/file/d/1H7jjL9_Z0nsalCUnl4A4pEHj7JvTK1eo/view">İndir(rar: oyunindir.vip)</a></td>
+      <td colspan="2"><a href="https://www.oyunindir.vip/wp-content/uploads/2019/07/Total-Overdose-3.jpg">Resim</a>
+    </td>
+  </tr>
+  <tr>
       <td>Prince of Persia</td>
       <td><a href="https://drive.google.com/file/d/1c5QdH_-Bbp5zmC64RjzCB7vkCwFoh_FH/view">İndir(rar: oyunindir.vip)</a></td>
       <td colspan="2"><a href="https://www.oyunindir.vip/wp-content/uploads/2019/02/Prince-of-Persia-pc.jpg">Resim</a>
