@@ -65,7 +65,8 @@
     <td><a href="https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.zip">Çalışmıyorlarsa Javayı İndirin</a></td>
   </tr>
   <tr>
-    <td>Minecraft</td>
-    <td><a href="https://drive.google.com/file/d/1lsEvoCqISpv8FIhTnMRYWTLHAALOMTCK/view">İndir(rar: oyunindir.vip)</a>
+    <td>Punch Club</td>
+    <td><a href="https://drive.google.com/file/d/1lsEvoCqISpv8FIhTnMRYWTLHAALOMTCK/view">İndir(rar: oyunindir.vip)</a></td>
+    <td><a href="https://www.oyunindir.vip/wp-content/uploads/2019/03/Punch-Club-Deluxe-4.jpg">Resim</a></td>
   </tr>
 </table>
