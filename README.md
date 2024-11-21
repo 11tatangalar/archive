@@ -7,10 +7,16 @@
     <th>Resimler</th>
   </tr>
   <tr>
-    <td>GTA San Andreas</td>
-    <td><a href="https://drive.google.com/drive/folders/1mMlbLvtuEKZn-aBZ7Qq8FdB3NIipelHg">İndir(rar: fullprogramlarindir.net)</a></td>
-    <td colspan="2"><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdVlY-G86-XFbqkLVcziHm4TMAFM6wARmfA&s">Resim</a>
-</td>
+      <td>Euro Truck Simulator 1</td>
+      <td><a href="https://drive.google.com/file/d/1LDgM_u3J4cjeMOQyo329NFbu3rmp57_B/view">İndir(rar: fullprogramlarindir.net)</a></td>
+      <td colspan="2"><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdVlY-G86-XFbqkLVcziHm4TMAFM6wARmfA&s">Resim</a>
+    </td>
+  </tr>
+  <tr>
+      <td>GTA San Andreas</td>
+      <td><a href="https://drive.google.com/drive/folders/1mMlbLvtuEKZn-aBZ7Qq8FdB3NIipelHg">İndir(rar: fullprogramlarindir.net)</a></td>
+      <td colspan="2"><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5XxFBFYvl5Jm2UlnYzbsMjQ6ydl4QjorAQ&s">Resim</a>
+    </td>
   </tr>
   <tr>
     <td>Goat Simulator</td>
