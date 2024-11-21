@@ -52,4 +52,8 @@
     <td>Silent Hill Homecoming</td>
     <td><a href="https://uploadhaven.com/download/4a4007291b362120218d837d7f2393c0">İndir(rar: steamunlocked.net)</a></td>
   </tr>
+  <tr>
+    <td>Minecraft</td>
+    <td><a href="https://drive.google.com/file/d/11wiK9ZS408IoXgTbaxa9pNa2-_r0svGO/view?usp=sharing">1-İndir(tlauncher)</a><a href="https://extremelauncher.net/_cdn/LegacyExtremeLauncher.exe">2-İndir(Legacy Launcher)</a></td>
+  </tr>
 </table>
