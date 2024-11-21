@@ -64,4 +64,9 @@
       <a href="https://extremelauncher.net/_cdn/LegacyExtremeLauncher.exe">2-İndir(Legacy Launcher)</a></td>
     <td><a href="https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.zip">Çalışmıyorlarsa Javayı İndirin</a></td>
   </tr>
+  <tr>
+    <td>Minecraft</td>
+    <td><a href="https://drive.google.com/file/d/1lsEvoCqISpv8FIhTnMRYWTLHAALOMTCK/view">İndir(rar: oyunindir.vip)</a>
+  </tr>
+  
 </table>
