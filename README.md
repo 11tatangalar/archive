@@ -44,4 +44,12 @@
     <td>Undertale</td>
     <td><a href="https://drive.google.com/file/d/1XTuWEpIoq9JxgNZ-iUIGyzzw3plixQDQ/view">İndir(rar: Oyunindir.cafe)</a></td>
   </tr>
+  <tr>
+    <td>Fallout New Vegas</td>
+    <td><a href="https://drive.google.com/file/d/1eeUpMQGBkVXZ87KCghdICoYclQQqDMb-/view">1-İndir(rar: oyunindir.vip)</a> <a href="https://uploadhaven.com/download/08f5d1d8e063dab88718dda75395478f">2-İndir(rar: steamunlocked.net)</a></td>
+  </tr>
+  <tr>
+    <td>Silent Hill Homecoming</td>
+    <td><a href="https://uploadhaven.com/download/4a4007291b362120218d837d7f2393c0">İndir(rar: steamunlocked.net)</a></td>
+  </tr>
 </table>
