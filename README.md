@@ -1,6 +1,11 @@
 # 11 Tatangalar Oyun Aşivi / Bilişimcilere Selam Olsun
 <table align="center">
   <tr>
+    <th>Oyun Adı</th>
+    <th>İndirme</th>
+    <th>Notlar</th>
+  </tr>
+  <tr>
     <td>Goat Simulator</td>
     <td><a href="https://drive.google.com/file/d/1n_iJio5FQdE2b3nGkG9-4nIWfIkUZAxZ/view">İndir(rar: www.oyunindir.club)</a></td>
   </tr>
@@ -54,6 +59,7 @@
   </tr>
   <tr>
     <td>Minecraft</td>
-    <td><a href="https://drive.google.com/file/d/11wiK9ZS408IoXgTbaxa9pNa2-_r0svGO/view?usp=sharing">1-İndir(tlauncher)</a><a href="https://extremelauncher.net/_cdn/LegacyExtremeLauncher.exe">2-İndir(Legacy Launcher)</a></td>
+    <td><a href="https://drive.google.com/file/d/11wiK9ZS408IoXgTbaxa9pNa2-_r0svGO/view?usp=sharing">1-İndir(tlauncher)</a> <a href="https://extremelauncher.net/_cdn/LegacyExtremeLauncher.exe">2-İndir(Legacy Launcher)</a></td>
+    <td><a href="https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.zip">Çalışmıyorlarsa Javayı İndirin</a></td>
   </tr>
 </table>
