@@ -51,7 +51,8 @@
   </tr>
   <tr>
     <td>Fallout New Vegas</td>
-    <td><a href="https://drive.google.com/file/d/1eeUpMQGBkVXZ87KCghdICoYclQQqDMb-/view">1-İndir(rar: oyunindir.vip)</a> <a href="https://uploadhaven.com/download/08f5d1d8e063dab88718dda75395478f">2-İndir(rar: steamunlocked.net)</a></td>
+    <td><a href="https://drive.google.com/file/d/1eeUpMQGBkVXZ87KCghdICoYclQQqDMb-/view">1-İndir(rar: oyunindir.vip)</a> <br> 
+      <a href="https://uploadhaven.com/download/08f5d1d8e063dab88718dda75395478f">2-İndir(rar: steamunlocked.net)</a></td>
   </tr>
   <tr>
     <td>Silent Hill Homecoming</td>
@@ -59,7 +60,8 @@
   </tr>
   <tr>
     <td>Minecraft</td>
-    <td><a href="https://drive.google.com/file/d/11wiK9ZS408IoXgTbaxa9pNa2-_r0svGO/view?usp=sharing">1-İndir(tlauncher)</a> <a href="https://extremelauncher.net/_cdn/LegacyExtremeLauncher.exe">2-İndir(Legacy Launcher)</a></td>
+    <td><a href="https://drive.google.com/file/d/11wiK9ZS408IoXgTbaxa9pNa2-_r0svGO/view?usp=sharing">1-İndir(tlauncher)</a> <br>
+      <a href="https://extremelauncher.net/_cdn/LegacyExtremeLauncher.exe">2-İndir(Legacy Launcher)</a></td>
     <td><a href="https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.zip">Çalışmıyorlarsa Javayı İndirin</a></td>
   </tr>
 </table>
