@@ -1,18 +1,33 @@
 # 11 Tatangalar Oyun Aşivi / Bilişimcilere Selam Olsun
-<table align="center">
+<table>
   <tr>
     <th>Oyun Adı</th>
     <th>İndirme</th>
     <th>Notlar</th>
   </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <img href="https://www.oyunindir.vip/wp-content/uploads/2019/03/Punch-Club-Deluxe-4.jpg">
+    </td>
+  </tr>
   <tr>
     <td>Goat Simulator</td>
     <td><a href="https://drive.google.com/file/d/1n_iJio5FQdE2b3nGkG9-4nIWfIkUZAxZ/view">İndir(rar: www.oyunindir.club)</a></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <img href="">
+    </td>
   </tr>
   <tr>
     <td>Half Life 2</td>
     <td><a href="https://drive.google.com/file/d/1Tm86CpcLqz9afENiL_f2_n2kR5FmO6BW/view">İndir(rar: www.oyunindir.club)</a></td>
   </tr>
+</table>
   <tr>
     <td>Mortal Kombat Deception</td>
     <td><a href="https://drive.google.com/drive/folders/1T-J3OaKm6zaAVbHr1H6K7uR9nFaIzL1B">İndir(rar: www.torrentoyunindir.fun)</a></td>
@@ -68,5 +83,3 @@
     <td>Minecraft</td>
     <td><a href="https://drive.google.com/file/d/1lsEvoCqISpv8FIhTnMRYWTLHAALOMTCK/view">İndir(rar: oyunindir.vip)</a>
   </tr>
-  
-</table>
