@@ -1,5 +1,5 @@
 # 11 Tatangalar Oyun Aşivi / Bilişimcilere Selam Olsun
-<table width="100%">
+<table align="center">
   <tr>
     <td>Goat Simulator</td>
     <td><a href="https://drive.google.com/file/d/1n_iJio5FQdE2b3nGkG9-4nIWfIkUZAxZ/view">İndir</a></td>
