@@ -7,6 +7,12 @@
     <th>Resimler</th>
   </tr>
   <tr>
+      <td>Prince of Persia</td>
+      <td><a href="https://drive.google.com/file/d/1c5QdH_-Bbp5zmC64RjzCB7vkCwFoh_FH/view">İndir(rar: oyunindir.vip)</a></td>
+      <td colspan="2"><a href="https://www.oyunindir.vip/wp-content/uploads/2019/02/Prince-of-Persia-pc.jpg">Resim</a>
+    </td>
+  </tr>
+  <tr>
       <td>Gris</td>
       <td><a href="https://drive.google.com/file/d/1sL4b9KQrtLOvr4gL1xsm5K-eZ_U46z-r/view">İndir(rar: oyunindir.vip)</a></td>
       <td colspan="2"><a href="https://www.oyunindir.vip/wp-content/uploads/2019/02/GRIS-pc-696x392.jpg">Resim</a>
