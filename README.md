@@ -7,6 +7,12 @@
     <th>Resimler</th>
   </tr>
   <tr>
+      <td>Fallout Shelter</td>
+      <td><a href="https://drive.google.com/file/d/1u5YOtC0X8tW_7AhP_T62aBXvYqq25V37/view">İndir(rar: oyunindir.vip)</a></td>
+      <td colspan="2"><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnAnOP4lpqOlTs0LWxtb1ALMU6afbTZ8KxdQ&s">Resim</a>
+    </td>
+  </tr>
+  <tr>
       <td>Euro Truck Simulator 1</td>
       <td><a href="https://drive.google.com/file/d/1LDgM_u3J4cjeMOQyo329NFbu3rmp57_B/view">İndir(rar: fullprogramlarindir.net)</a></td>
       <td colspan="2"><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5XxFBFYvl5Jm2UlnYzbsMjQ6ydl4QjorAQ&s">Resim</a>
