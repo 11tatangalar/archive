@@ -208,7 +208,7 @@
     <td>Minecraft</td>
     <td><a href="https://drive.google.com/file/d/11wiK9ZS408IoXgTbaxa9pNa2-_r0svGO/view?usp=sharing">1-İndir(tlauncher)</a> <br>
       <a href="https://extremelauncher.net/_cdn/LegacyExtremeLauncher.exe">2-İndir(Legacy Launcher)</a></td>
-    <td><a href="https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.zip">(Legacy: 112mb, TLauncher: 24mb) Çalışmıyorlarsa Javayı İndirin</a></td>
+    <td>(Legacy: 112mb, TLauncher: 24mb) <a href="https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.zip">Çalışmıyorlarsa Javayı İndirin</a></td>
     <td>
       <a href="https://www.bilisimschool.com/wp-content/uploads/2024/02/maxresdefault-1.jpg">Resim</a>
     </td>
