@@ -134,7 +134,7 @@
   </tr>
   <tr>
     <td>Mount and Blade Warband</td>
-    <td><a href="https://drive.google.com/file/d/1Inj9ss7AYbtaPhxJ5eE_7FRmK0AXq1rP/view">İndir</a></td>
+    <td><a href="https://drive.google.com/file/d/1Inj9ss7AYbtaPhxJ5eE_7FRmK0AXq1rP/view">İndir(rar: Oyunindir.cafe)</a></td>
     <td>(150 MB)</td>
     <td colspan="2"><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6QorAkGb7WcttQJbnRBM3fk8nQck4oJZ7vg&s">Resim</a>
 </td>
