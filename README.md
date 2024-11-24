@@ -1,4 +1,4 @@
-# 11 Tatangalar Oyun Aşivi
+# 11 Tatangalar Oyun Arşivi
 <table>
   <tr>
     <th>Oyun Adı</th>
