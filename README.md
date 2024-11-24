@@ -7,6 +7,12 @@
     <th>Resimler</th>
   </tr>
   <tr>
+      <td>Call of Duty 2</td>
+      <td><a href="https://drive.google.com/drive/folders/1beCqWT6eNHb7AbPJCiIeuoI_Y4dVhX0I">İndir(rar: Oyunindir.cafe)</a></td>
+      <td colspan="2"><a href="https://oyunindir.cafe/wp-content/uploads/2024/05/Call-of-Duty-2-Indir.webp">Resim</a>
+    </td>
+  </tr>
+  <tr>
       <td>Call of Duty 4</td>
       <td><a href="https://drive.google.com/file/d/1-Vg5APYpy23I24avhGNU9iX2-U7vlTWr/view">İndir(rar: www.saglamindir.net)</a></td>
       <td colspan="2"><a href="https://saglamindir.net/wp-content/uploads/2016/10/Call-of-Duty-4-Modern-Warfare-Screenshots-2.jpg">Resim</a>
