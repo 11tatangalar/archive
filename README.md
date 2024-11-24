@@ -7,6 +7,18 @@
     <th>Resimler</th>
   </tr>
   <tr>
+      <td>Call of Duty Modern Warfare 2</td>
+      <td><a href="https://drive.google.com/drive/folders/1XBEOCiUwiO6-EmO8BLzuzGxSXVTjfgZQ">İndir(rar: Oyunindir.cafe)</a></td>
+      <td colspan="2"><a href="https://oyunindir.cafe/wp-content/uploads/2024/05/Call-of-Duty-Modern-Warfare-2-Indir.jpg">Resim</a>
+    </td>
+  </tr>
+  <tr>
+      <td>Call of Duty Black Ops</td>
+      <td><a href="https://drive.google.com/drive/folders/1_lDpMtwd98BJlafaqPZaWg6kAeaFvBFe">İndir(rar: Oyunindir.cafe)</a></td>
+      <td colspan="2"><a href="https://oyunindir.cafe/wp-content/uploads/2024/05/Call-of-Duty-Black-Ops-Indir.jpg">Resim</a>
+    </td>
+  </tr>
+  <tr>
       <td>Call of Duty 2</td>
       <td><a href="https://drive.google.com/drive/folders/1beCqWT6eNHb7AbPJCiIeuoI_Y4dVhX0I">İndir(rar: Oyunindir.cafe)</a></td>
       <td colspan="2"><a href="https://oyunindir.cafe/wp-content/uploads/2024/05/Call-of-Duty-2-Indir.webp">Resim</a>
