@@ -9,7 +9,7 @@
   <tr>
       <td>F1 2014</td>
       <td><a href="https://drive.google.com/file/d/1pp6EZeA-zEMPGBInseiqaHthAEJhZv5A/view">İndir(rar: www.oyunindir.club)</a></td>
-      <td>(817 MB)</td>
+      <td>(1,47 GB)</td>
       <td colspan="2"><a href="https://i0.wp.com/www.oyunindir.club/wp-content/uploads/2019/04/F1-2014.jpg?w=616&ssl=1">Resim</a>
     </td>
   </tr>
