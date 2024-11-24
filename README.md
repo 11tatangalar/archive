@@ -7,10 +7,31 @@
     <th>Resimler</th>
   </tr>
   <tr>
+      <td>Call of Duty Modern Warfare 3 + Türkçe Yama</td>
+      <td><a href="https://drive.google.com/drive/folders/1M_Eo7w1tIPbOnNc2m_k1pQNvruHzgofc">İndir(rar: Oyunindir.cafe)</a></td>
+      <td>(16 GB) Türkçe indirme linkinin içerisindeki "Trdil-Oyunindir.cafe.zip" dosyasıdır.</td>
+      <td colspan="2"><a href="https://oyunindir.cafe/wp-content/uploads/2024/04/Call-of-Duty-Modern-Warfare-3-Indir-1-jpg.webp">Resim</a>
+    </td>
+  </tr>
+  <tr>
+      <td>Fnaf 1 – Five Nights at Freddy’s + Çok Oyunculu</td>
+      <td><a href="https://drive.google.com/file/d/1h43Suxc6FztWnlu0x_zNdNZxBO1Zvzs3/view">İndir(rar: Oyunindir.cafe)</a></td>
+      <td>(250 MB)</td>
+      <td colspan="2"><a href="https://oyunindir.cafe/wp-content/uploads/2024/04/Five-Nights-at-Freddys-Indir.webp">Resim</a>
+    </td>
+  </tr>
+  <tr>
       <td>Assassin’s Creed Brotherhood</td>
       <td><a href="https://drive.google.com/drive/folders/1aIrTh9f-TX9Mhf-Lix5DYAqjXMvRv1-q">İndir(rar: Oyunindir.cafe)</a></td>
       <td>(8 GB)</td>
       <td colspan="2"><a href="https://oyunindir.cafe/wp-content/uploads/2024/09/Call-of-Duty-2003-Indir.jpg">Resim</a>
+    </td>
+  </tr>
+  <tr>
+      <td>Gta Vice City + Türkçe Dublaj</td>
+      <td><a href="https://drive.google.com/file/d/1fUHhD2I0uGIsUBDr9JFICS-EigBtv30b/view">İndir(rar: Oyunindir.cafe)</a></td>
+      <td>(915 MB)</td>
+      <td colspan="2"><a href="https://oyunindir.cafe/wp-content/uploads/2024/04/Gta-Vice-City-turkce-dublaj-indir.jpg">Resim</a>
     </td>
   </tr>
   <tr>
