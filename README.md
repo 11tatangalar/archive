@@ -14,6 +14,13 @@
     </td>
   </tr>
   <tr>
+      <td>Naruto Shippuden Ultimate Ninja Storm 3</td>
+      <td><a href="https://drive.google.com/file/d/1x1dPQUfovK7uNFZug9t2hrljzlEeInJS/view">İndir(rar: oyunindir.vip)</a></td>
+      <td>(23 GB)</td>
+      <td colspan="2"><a href="https://oyunindir.cafe/wp-content/uploads/2024/04/Naruto-Shippuden-Ultimate-Ninja-Storm-3-Full-Burst-HD-Indir.jpg">Resim</a>
+    </td>
+  </tr>
+  <tr>
       <td>Call of Duty Modern Warfare 3 + Türkçe Yama</td>
       <td><a href="https://drive.google.com/drive/folders/1M_Eo7w1tIPbOnNc2m_k1pQNvruHzgofc">İndir(rar: Oyunindir.cafe)</a></td>
       <td>(16 GB) Türkçe indirme linkinin içerisindeki "Trdil-Oyunindir.cafe.zip" dosyasıdır.</td>
