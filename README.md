@@ -7,6 +7,13 @@
     <th>Resimler</th>
   </tr>
   <tr>
+      <td>Anomaly Agent</td>
+      <td><a href="https://drive.google.com/file/d/1A3sAmW24m9xTBTGHMfOMIHg0Kk-JtU1e/view">İndir(rar: Oyunindir.cafe)</a></td>
+      <td>(817 MB)</td>
+      <td colspan="2"><a href="https://oyunindir.cafe/wp-content/uploads/2024/02/Anomaly-Agent-Indir-jpg.webp">Resim</a>
+    </td>
+  </tr>
+  <tr>
       <td>Call of Duty Modern Warfare 3 + Türkçe Yama</td>
       <td><a href="https://drive.google.com/drive/folders/1M_Eo7w1tIPbOnNc2m_k1pQNvruHzgofc">İndir(rar: Oyunindir.cafe)</a></td>
       <td>(16 GB) Türkçe indirme linkinin içerisindeki "Trdil-Oyunindir.cafe.zip" dosyasıdır.</td>
