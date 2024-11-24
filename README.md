@@ -1,4 +1,4 @@
-# 11 Tatangalar Oyun Aşivi / Bilişimcilere Selam Olsun
+# 11 Tatangalar Oyun Aşivi
 <table>
   <tr>
     <th>Oyun Adı</th>
