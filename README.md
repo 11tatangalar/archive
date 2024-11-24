@@ -7,6 +7,12 @@
     <th>Resimler</th>
   </tr>
   <tr>
+      <td>Call of Duty 4</td>
+      <td><a href="https://drive.google.com/file/d/1-Vg5APYpy23I24avhGNU9iX2-U7vlTWr/view">İndir(rar: www.saglamindir.net)</a></td>
+      <td colspan="2"><a href="https://saglamindir.net/wp-content/uploads/2016/10/Call-of-Duty-4-Modern-Warfare-Screenshots-2.jpg">Resim</a>
+    </td>
+  </tr>
+  <tr>
       <td>The Incredible Hulk</td>
       <td><a href="https://disk.yandex.com.tr/d/T4thF5fx3t117g">İndir(rar: oyunindir.vip)</a></td>
       <td colspan="2"><a href="https://www.oyunindir.vip/wp-content/uploads/2019/11/The-Incredible-Hulk-full.jpg">Resim</a>
