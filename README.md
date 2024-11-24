@@ -7,6 +7,12 @@
     <th>Resimler</th>
   </tr>
   <tr>
+      <td>Call of Duty 1</td>
+      <td><a href="https://drive.google.com/drive/folders/1aIrTh9f-TX9Mhf-Lix5DYAqjXMvRv1-q">İndir(rar: Oyunindir.cafe)</a></td>
+      <td colspan="2"><a href="https://oyunindir.cafe/wp-content/uploads/2024/09/Call-of-Duty-2003-Indir.jpg">Resim</a>
+    </td>
+  </tr>
+  <tr>
       <td>Call of Duty Modern Warfare 2</td>
       <td><a href="https://drive.google.com/drive/folders/1XBEOCiUwiO6-EmO8BLzuzGxSXVTjfgZQ">İndir(rar: Oyunindir.cafe)</a></td>
       <td colspan="2"><a href="https://oyunindir.cafe/wp-content/uploads/2024/05/Call-of-Duty-Modern-Warfare-2-Indir.jpg">Resim</a>
