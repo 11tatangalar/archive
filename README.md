@@ -7,6 +7,20 @@
     <th>Resimler</th>
   </tr>
   <tr>
+      <td>Escape the Backrooms</td>
+      <td><a href="https://drive.google.com/file/d/1lIrSZaE5ZFwzunhfjkDKqvJnsLYMJwMA/view">İndir(rar: www.oyunindir.club)</a></td>
+      <td>(9 GB)</td>
+      <td colspan="2"><a href="https://i0.wp.com/www.oyunindir.club/wp-content/uploads/2023/04/Escape-the-Backrooms.jpeg?w=616&ssl=1">Resim</a>
+    </td>
+  </tr>
+  <tr>
+      <td>Human Fall Flat</td>
+      <td><a href="https://drive.google.com/file/d/1brnaixGVJZ0V1igpD7DOWvcI9HomNfnb/view">İndir(rar: www.oyunindir.club)</a></td>
+      <td>(845 MB)</td>
+      <td colspan="2"><a href="https://i0.wp.com/www.oyunindir.club/wp-content/uploads/2016/08/human_fall_flat.jpg?w=660&ssl=1">Resim</a>
+    </td>
+  </tr>
+  <tr>
       <td>F1 2014</td>
       <td><a href="https://drive.google.com/file/d/1pp6EZeA-zEMPGBInseiqaHthAEJhZv5A/view">İndir(rar: www.oyunindir.club)</a></td>
       <td>(1,47 GB)</td>
